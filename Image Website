@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title><h2>image display</h2></title>
+    </head>
+    <body>
+        <p>
+        <img src="https://www.africa-newsroom.com/files/large/83379a847dc9ee6" alt="PowerLearn Logo">
+        </p>
+        <p>
+        <img src="http://bit.ly/1sKLusm" alt="Technological Changes">
+        </p>
+        <p>
+        <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" alt="Python Programming"
+        </p>
+        <p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/2560px-Dart_programming_language_logo.svg.png" alt="Dart Programming"
+        </p>
+        <p>
+        <img src="https://www.kindpng.com/picc/m/194-1943968_web-development-languages-logos-hd-png-download.png" alt="Web Programming"
+        </p>
+        <p>
+        <img src="https://repository-images.githubusercontent.com/331129418/7eba9d00-5b81-11eb-916c-487d16d323be" alt="Database Programming"
+        </p>
+        </body>
+        </html>
